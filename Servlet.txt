@@ -1,0 +1,2 @@
+Never build the servlet api jar as it is inbulit and if the error is comming then check the
+import class which would be javax and change it to jakarta
